@@ -1,7 +1,1 @@
-Run the jar file in cmd
-
->> Notepad.jar
-
-OR
-
-Run the Notepad.java
+Run the Javapad.exe in Application Folder
